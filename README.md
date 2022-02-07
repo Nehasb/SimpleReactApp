@@ -1,44 +1,71 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="./src/assets/circles.png" height="250px" align="right"/>
 
-## Available Scripts
+<h1 align="center">BOOK STORE USING REACTJS </h1>
 
-In the project directory, you can run:
 
-### `yarn start`
+# BOOK-IT Description
+    Book-IT is an online React web application where the customer can purchase books online.
+    Through this book store the users can search for a book by its title and
+    later can add to the shopping cart and finally purchase using credit card transaction.
+    
+ ##   [Live App Demo](https://akshatbookstore.netlify.app/)
+ 
+ 
+ ![Alt text](https://github.com/Akshatjalan/Book-store-Reactjs/blob/main/src/assets/Web.jpg?raw=true "Main Page")
 
-Runs the app in the development mode.<br />
+# Tools Used
+
+- Build with `React`, `Javascript`, `HTML`, `CSS`.
+- `CommerceJS` provides Backend eCommerce APIs for any frontend framework
+- `Stripe` is used as a suite of payment APIs that powers commerce and provides temporary credit card for payment.
+- https://commercejs.com/docs/guides/products-react/ Documentation of CommerceJS to fetch APIs
+- https://stripe.com/docs/stripe-js/react Documentation to connect Stripe with React components for Stripe.js and Stripe Elements
+
+
+# Installation 
+
+### `npm start`
+
+Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+The page will reload if you make edits.<br>
 
-### `yarn test`
+### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the test runner in the interactive watch mode.<br>
+See the section about [running tests](#running-tests) for more information.
 
-### `yarn build`
+### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
+Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+The build is minified and the filenames include the hashes.<br>
+The app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](#deployment) for more information.
 
-### `yarn eject`
+## Contact 
+ <h3 align="center">
+  <code> Akshat Jalan </code>
+</h3>
+  <p align="center"> 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+  <a href="https://github.com/Akshatjalan">
+    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Github.svg" width="30" height="30" hspace="20">
+  </a>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  <a href="https://www.linkedin.com/in/akshat-jalan/">
+    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/LinkedIN.svg" width="30" height="30" hspace="20">
+  </a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  <a href="https://www.instagram.com/akshatxjalan/">
+    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Instagram.svg" width="30" height="30" hspace="20">
+  </a>
+    <a href="mailto:jalanakshat2@gmail.com">
+    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Gmail.svg"  width="30" height="30" hspace="20">
+  </a>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+</p>
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
